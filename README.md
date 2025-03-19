@@ -1,5 +1,6 @@
 # Scratchify - A Compose Multiplatform Scratch Card SDK
 
+![Scratchify](image/Scratchify.jpg)
 ![Github: Open Issues](https://img.shields.io/github/issues-raw/gsrathoreniks/scratchify?color=7E8EFB&label=Scratchify%3A%20Open%20Issues)
 ![Scratchify](https://img.shields.io/maven-central/v/io.github.gsrathoreniks/scratchify?style=flat&label=Scratchify)
 [![Github Followers](https://img.shields.io/github/followers/gsrathoreniks?label=Follow&style=social)](https://github.com/gsrathoreniks)
