@@ -4,7 +4,8 @@
 ![Scratchify](https://img.shields.io/maven-central/v/io.github.gsrathoreniks/scratchify?style=flat&label=Scratchify)
 [![Github Followers](https://img.shields.io/github/followers/gsrathoreniks?label=Follow&style=social)](https://github.com/gsrathoreniks)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gsrathoreniks?label=Follow&style=social)](https://twitter.com/gsrathoreniks)
-![GitHub License](https://img.shields.io/github/license/gsrathoreniks/scratchify)
+![GitHub License](https://img.shields.io/github/license/gsrathoreniks/scratchify?link=https%3A%2F%2Fgithub.com%2Fgsrathoreniks%2FScratchify%3Ftab%3DMIT-1-ov-file%23MIT-1-ov-file)
+
 
 
 
