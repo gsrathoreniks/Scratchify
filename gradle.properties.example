@@ -1,0 +1,24 @@
+#Gradle
+org.gradle.jvmargs=-Xmx2048M -Dfile.encoding=UTF-8 -Dkotlin.daemon.jvm.options\="-Xmx2048M"
+org.gradle.caching=true
+org.gradle.configuration-cache=true
+
+#Kotlin
+kotlin.code.style=official
+
+#Android
+android.useAndroidX=true
+android.nonTransitiveRClass=true
+
+# Versioning Information
+VERSION="1.0.0-alpha2"
+
+kotlin.mpp.androidGradlePluginCompatibility.nowarn=true
+
+# Maven Central (Sonatype) Credentials - Add your own values
+#mavenCentralUsername=YOUR_USERNAME
+#mavenCentralPassword=YOUR_PASSWORD
+
+#signing.keyId=YOUR_KEY_ID
+#signing.password=YOUR_SIGNING_PASSWORD
+#signing.secretKeyRingFile=/path/to/your/secring.gpg
