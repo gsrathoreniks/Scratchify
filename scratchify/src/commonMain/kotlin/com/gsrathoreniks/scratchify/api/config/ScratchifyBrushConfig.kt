@@ -8,4 +8,5 @@ data class ScratchifyBrushConfig(
     val brushSize: Dp = 4.dp,
     val brushColor: Color = Color.Cyan,
     val opacity: Float = 1f,
+    val brushShape: BrushShape = BrushShape.Circle
 )
