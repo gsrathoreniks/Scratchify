@@ -45,13 +45,13 @@ sealed class BrushShape {
  */
 fun createStarPath(points: Int, outerRadius: Float, innerRadius: Float): Path {
     val path = Path()
-    val anglePerPoint = (2 * Math.PI / points).toFloat()
+    val anglePerPoint = (2 * kotlin.math.PI / points).toFloat()
     
     for (i in 0 until points * 2) {
         val radius = if (i % 2 == 0) outerRadius else innerRadius
         val angle = i * anglePerPoint / 2
-        val x = (radius * kotlin.math.cos(angle)).toFloat()
-        val y = (radius * kotlin.math.sin(angle)).toFloat()
+        val x = (radius * kotlin.math.cos(angle))
+        val y = (radius * kotlin.math.sin(angle))
         
         if (i == 0) {
             path.moveTo(x, y)
