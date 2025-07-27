@@ -6,6 +6,8 @@
 [![Github Followers](https://img.shields.io/github/followers/gsrathoreniks?label=Follow&style=social)](https://github.com/gsrathoreniks)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gsrathoreniks?label=Follow&style=social)](https://twitter.com/gsrathoreniks)
 ![GitHub License](https://img.shields.io/github/license/gsrathoreniks/scratchify?link=https%3A%2F%2Fgithub.com%2Fgsrathoreniks%2FScratchify%3Ftab%3DMIT-1-ov-file%23MIT-1-ov-file)
+<a href="https://www.producthunt.com/products/scratchify-sdk-mobile-scratch-rewards?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-scratchify&#0045;sdk&#0045;mobile&#0045;scratch&#0045;rewards" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=998237&theme=light&t=1753626002349" alt="Scratchify&#0032;SDK&#0032;–&#0032;Mobile&#0032;Scratch&#0032;Rewards - Gamify&#0032;your&#0032;app&#0032;with&#0032;scratch&#0045;to&#0045;reveal&#0032;magic&#0032;✨ | Product Hunt" style="width: 100px; height: 22px;" width="100" height="21" /></a>
+
 [![Scratchify](https://img.shields.io/badge/Android%20Weekly-%23667-Pink)](https://androidweekly.net/issues/issue-667)
 
 ---
